@@ -2,7 +2,7 @@
 # 🌊 Smart RO System 🌊
 
 ## Contexte et Objectifs 🚰
-Le projet **Smart RO System**, réalisé par Emna Ben Kadida et Nour Challouf, a pour objectif de moderniser un système de **dessalement par osmose inverse (RO)** au **Centre de Recherches et des Technologies des Eaux (CERTE)** en Tunisie. Dans un contexte de pénurie hydrique croissante, le projet s'inscrit dans le cadre du programme **TWEED** financé par le **DAAD**, visant à renforcer les capacités en gestion de l'eau et de l'énergie.
+Le projet **Smart RO System**, réalisé par moi, Emna Ben Kadida et ma partenaire Nour Challouf, a pour objectif de moderniser un système de **dessalement par osmose inverse (RO)** au **Centre de Recherches et des Technologies des Eaux (CERTE)** en Tunisie. Dans un contexte de pénurie hydrique croissante, le projet s'inscrit dans le cadre du programme **TWEED** financé par le **DAAD**, visant à renforcer les capacités en gestion de l'eau et de l'énergie.
 
 ### Objectifs principaux :
 - 🌐 **Surveillance en temps réel** des paramètres de l'eau (pH, conductivité, débit, niveau).
@@ -70,9 +70,7 @@ Ce projet s'aligne sur les tendances mondiales de l'industrie 4.0, où l'**autom
 
 Malheureusement, **le code source du projet a été perdu**. Cependant, j'ai mis à disposition des ressources alternatives pour mieux comprendre le projet :
 
-J'ai importé donc: 
-- 📄 le rapport en PDF avec des explications complètes sur le projet avec uelques captures montrant des extraits du code et de la configuration du système.
-- 🎥 Une vidéo qui montre le fonctionnement du système IoT, de la collecte des données à la supervision en temps réel.
+J'ai importé donc le rapport en PDF avec des explications complètes sur le projet avec uelques captures montrant des extraits du code et de la configuration du système.
 
 ---
 
