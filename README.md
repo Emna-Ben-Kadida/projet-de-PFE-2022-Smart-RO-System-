@@ -70,9 +70,9 @@ Ce projet s'aligne sur les tendances mondiales de l'industrie 4.0, où l'**autom
 
 Malheureusement, **le code source du projet a été perdu**. Cependant, j'ai mis à disposition des ressources alternatives pour mieux comprendre le projet :
 
-- 📄 [**PDF du rapport détaillé**](link-to-pdf) avec des explications complètes sur le projet et des captures d'écran du code.
-- 🖼️ **Captures d'écran du code** : Quelques captures montrant des extraits du code et de la configuration du système.
-- 🎥 [**Vidéo démo**](link-to-video) : Une vidéo qui montre le fonctionnement du système IoT, de la collecte des données à la supervision en temps réel.
+J'ai importé donc: 
+- 📄 le rapport en PDF avec des explications complètes sur le projet avec uelques captures montrant des extraits du code et de la configuration du système.
+- 🎥 Une vidéo qui montre le fonctionnement du système IoT, de la collecte des données à la supervision en temps réel.
 
 ---
 
